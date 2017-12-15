@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Primera publicación
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Mi nombre es Arnau Guerrero y esta es mi primera publicación como parte de la tarea para IAW.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
